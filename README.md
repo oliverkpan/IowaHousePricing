@@ -7,7 +7,14 @@ In machine learning, there are various types of supervised learning. The focus o
 Currently, there have been various models created, with small fractions of the data. The next implementation will be using various gradient boosters and further analysis of the garage and basement dataframes.
 
 ### Models Used
-I hope to use various types of regression models to assist with this competition. For instance, I will be implementing Random Forest and XGBoost.
+[Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+
+[Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+
+[XGBoost](https://xgboost.readthedocs.io/en/latest/)
+
+[CatBoost](https://catboost.ai/docs/concepts/about.html)
+
 
 ### Learning Outcomes
 I am hoping to strengthen my documentation and statistical understanding of regression. I hope to deploy the final model and create an interface.
