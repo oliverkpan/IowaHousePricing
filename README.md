@@ -17,7 +17,7 @@ Currently, there have been various models created, with small fractions of the d
 
 
 ### Next Steps
-I am hoping to strengthen my documentation and statistical understanding of regression. Here are the steps that I am taking in this project to ensure success
+I am hoping to strengthen my documentation and statistical understanding of regression. Here are the steps that I am taking in this project to ensure success.
 
 1. Explore and create visualizations to further understand the data
 2. Break the columns into smaller parts and analyse feature importance using various Regression models
