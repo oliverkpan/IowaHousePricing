@@ -16,8 +16,16 @@ Currently, there have been various models created, with small fractions of the d
 [CatBoost](https://catboost.ai/docs/concepts/about.html)
 
 
-### Learning Outcomes
-I am hoping to strengthen my documentation and statistical understanding of regression. I hope to deploy the final model and create an interface.
+### Next Steps
+I am hoping to strengthen my documentation and statistical understanding of regression. Here are the steps that I am taking in this project to ensure success
+
+1. Explore and create visualizations to further understand the data
+2. Break the columns into smaller parts and analyse feature importance using various Regression models
+3. Try and test new libraries, since this project has a strong learning component. (I would like to learn new technologies)
+4. Engineer some features to push for lower RMSE and higher accuracy
+5. Use various metrics to understand the model
+6. Submit predictions to Kaggle
+7. Deploy model in a way that is useable with a build front-end
 
 ### Source
 
