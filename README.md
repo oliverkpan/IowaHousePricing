@@ -1,10 +1,13 @@
-# IowaHousePricing
+# Iowatch
 
 ### About
 In machine learning, there are various types of supervised learning. The focus of this project is regression, in which we will look to predict house prices in Iowa. This project is inspired by the Kaggle competition below; I will use advanced regression techniques to lower the error as much as possible and predict with the highest accuracy. This competition is judged by Root Mean Square Error (RMSE), but I use various metrics for evaluation. 
 
 ### Current Progress
 Currently, there have been various models created, with small fractions of the data. The next implementation will be using various gradient boosters and further analysis of the garage and basement dataframes.
+
+### Development
+There are three parts to this project. First, I am currently in the process of creating an automated data mining application. I will use web scraping to pull daily updated data from various house listing websites. Second, I am looking to improve the model, lowering RMSE. Overall, the goal should be a more accurate model. Lastly, deploying the model via Streamlit is ideal. Picking various features and implementing them into the UX will make this usable. I will present all of this on a website.
 
 ### Models Used
 [Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
