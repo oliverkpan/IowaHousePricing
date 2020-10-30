@@ -30,6 +30,10 @@ I am hoping to strengthen my documentation and statistical understanding of regr
 6. Submit predictions to Kaggle
 7. Deploy model in a way that is useable with a build front-end
 
+### Deployment Demo
+
+![Demo](https://github.com/oliverkpan/Iowatch/blob/master/demo.png?raw=true)
+
 ### Source
 
 [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
